@@ -46,6 +46,7 @@ MERGED from /Users/ed007/Documents/votebreakfast/android/app/src/main/AndroidMan
 MERGED from [:firebase_auth] /Users/ed007/Documents/votebreakfast/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:cloud_firestore] /Users/ed007/Documents/votebreakfast/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_core] /Users/ed007/Documents/votebreakfast/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:fluttertoast] /Users/ed007/Documents/votebreakfast/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:google_sign_in_android] /Users/ed007/Documents/votebreakfast/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ed007/.gradle/caches/transforms-3/1e8cb512abab684fff316d6202328d3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/ed007/.gradle/caches/transforms-3/015aa4ee8b986aa09d582eebe62e4b0b/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
@@ -122,6 +123,8 @@ MERGED from [:cloud_firestore] /Users/ed007/Documents/votebreakfast/build/cloud_
 MERGED from [:cloud_firestore] /Users/ed007/Documents/votebreakfast/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_core] /Users/ed007/Documents/votebreakfast/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:firebase_core] /Users/ed007/Documents/votebreakfast/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /Users/ed007/Documents/votebreakfast/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /Users/ed007/Documents/votebreakfast/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:google_sign_in_android] /Users/ed007/Documents/votebreakfast/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:google_sign_in_android] /Users/ed007/Documents/votebreakfast/build/google_sign_in_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/ed007/.gradle/caches/transforms-3/1e8cb512abab684fff316d6202328d3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41

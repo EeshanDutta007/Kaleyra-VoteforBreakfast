@@ -40,6 +40,8 @@ class _HomePageState extends State<HomePage>{
     controller1.dispose();
     super.dispose();
   }
+  String N = FirebaseAuth.instance.currentUser!.displayName!;
+  String N1 = FirebaseAuth.instance.currentUser!.email!;
    int count=0;
   String name="";
    String name1="";
@@ -55,7 +57,7 @@ class _HomePageState extends State<HomePage>{
           children: <Widget>[
 
             Text(
-              FirebaseAuth.instance.currentUser!.displayName!,
+              N == null ? " ": N,
               style: const TextStyle(
                   fontSize: 30, fontWeight: FontWeight.bold, color: Colors.black87),
             ),
@@ -63,7 +65,7 @@ class _HomePageState extends State<HomePage>{
               height: 10,
             ),
             Text(
-              FirebaseAuth.instance.currentUser!.email!,
+              N1 == null? " ":N1,
               style: const TextStyle(
                   fontSize: 20, fontWeight: FontWeight.bold, color: Colors.black87),
             ),

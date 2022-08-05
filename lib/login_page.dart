@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:votebreakfast/auth_service.dart';
+import 'package:votebreakfast/login_page_1.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
@@ -50,6 +51,12 @@ class _LoginPageState extends State<LoginPage> {
                   },
                   child: Container(height: 50, child: Image.network('https://www.oncrashreboot.com/images/create-apple-google-signin-buttons-quick-dirty-way-google.png'))
               ),
+              TextButton(onPressed: (){
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => LoginScreen()),
+                );
+              }, child: Text('Login with SMS and OTP'))
             ],
           ),
         ),
