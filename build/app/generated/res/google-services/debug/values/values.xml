@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">425468817819-tbfgdp9h4a0dr4lscechurreik4ff28l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">425468817819</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnx6ZenC0w6El342xU-_2W2AtkQVVYnuI</string>
+    <string name="google_app_id" translatable="false">1:425468817819:android:acb621b1119c452c3af13e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnx6ZenC0w6El342xU-_2W2AtkQVVYnuI</string>
+    <string name="google_storage_bucket" translatable="false">votebreakfast-4d879.appspot.com</string>
+    <string name="project_id" translatable="false">votebreakfast-4d879</string>
+</resources>

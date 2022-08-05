@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425468817819",
+    "project_id": "votebreakfast-4d879",
+    "storage_bucket": "votebreakfast-4d879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425468817819:android:acb621b1119c452c3af13e",
+        "android_client_info": {
+          "package_name": "com.example.votebreakfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425468817819-tbfgdp9h4a0dr4lscechurreik4ff28l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnx6ZenC0w6El342xU-_2W2AtkQVVYnuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425468817819-tbfgdp9h4a0dr4lscechurreik4ff28l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
